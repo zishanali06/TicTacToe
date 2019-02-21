@@ -32,7 +32,7 @@ function changeSquare(e) {
     console.log(gameCount);
 }
 
-//clear board funtion to clear playing ground
+//clear board funtion to clear playing ground if game is over
 function clearBoard() {
     console.log("STUCK HERE");
     let s1 = document.querySelector("#one");

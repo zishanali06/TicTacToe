@@ -27,3 +27,6 @@
 .row:hover{
     cursor: pointer;
 }
+#win{
+    width: 302px;
+}
